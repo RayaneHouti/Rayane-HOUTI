@@ -32,5 +32,5 @@
 ### 📫 Me retrouver
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/RayaneHOUTI)
 
-RayaneHOUTI
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/RayaneHOUTI])
